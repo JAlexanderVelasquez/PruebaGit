@@ -7,6 +7,8 @@
 #include <iostream>
 using namespace std;
 //un cambio
+//Un gran cambio, asi se empieza  cambiar el mundo
+//Johnny the people are so crazy
 int main(){
 	int numero1, numero2, operador, resultado;
 		
