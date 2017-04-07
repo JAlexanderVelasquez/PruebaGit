@@ -6,7 +6,7 @@
 
 #include <iostream>
 using namespace std;
-
+//un cambio
 int main(){
 	int numero1, numero2, operador, resultado;
 		
